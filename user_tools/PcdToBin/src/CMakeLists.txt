@@ -1,0 +1,9 @@
+cmake_minimum_required(VERSION 3.8.0)
+project(BinToPcd)
+SET(CMAKE_C_COMPILER gcc)
+add_compile_options(-std=c++11) 
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR})
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_DEBUG ${CMAKE_SOURCE_DIR}/../)
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY_RELEASE ${CMAKE_SOURCE_DIR}/../)
+add_executable (PcdToBin PcdToBin.cpp)
+
