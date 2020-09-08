@@ -8,7 +8,7 @@
 <font face="微软雅黑" size="5" color="black">1\. PCD版本</font> 
 
 <font face="华文仿宋" size="4" color="black">
-　　在51WORLD仿真激光雷达数据集用到的PCD文件格式的正式发布是0.7版，即PCD_V7。头文件及部分点云数据如下所示</font>        
+　　51WORLD仿真激光雷达数据集用到的PCD文件格式的正式发布是0.7版，即PCD_V7。头文件及部分点云数据如下所示</font>        
 
 <font face="微软雅黑" size="5" color="black">2\. 文件格式</font> 
 
